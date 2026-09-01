@@ -1,0 +1,17 @@
+.Polaris-Layout__Section {
+  flex: 1;
+}
+
+.Polaris-Layout__Section--oneThird {
+  flex: 1;
+}
+
+.Polaris-DataTable thead th {
+  color: #111;           /* yazı rengi */
+  font-weight: 700;      /* kalın başlık */
+  text-transform: uppercase;
+}
+
+.Polaris-Layout{
+  margin-left:0px;
+}
